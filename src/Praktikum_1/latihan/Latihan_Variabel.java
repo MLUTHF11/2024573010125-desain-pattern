@@ -1,4 +1,4 @@
-package Praktikum_1;
+package Praktikum_1.latihan;
 
 public class Latihan_Variabel {
     public static void main(String[] args) {
