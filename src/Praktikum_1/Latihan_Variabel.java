@@ -1,6 +1,4 @@
-package modul_1;
-
-import java.util.Date;
+package Praktikum_1;
 
 public class Latihan_Variabel {
     public static void main(String[] args) {

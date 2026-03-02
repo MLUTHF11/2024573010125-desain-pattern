@@ -1,6 +1,4 @@
-package modul_1;
-
-import java.sql.SQLOutput;
+package Praktikum_1;
 
 public class HelloWorld {
     public static  void main (String[] args){
