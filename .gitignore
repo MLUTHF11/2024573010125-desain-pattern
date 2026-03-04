@@ -1,29 +1,23 @@
-### IntelliJ IDEA ###
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Package Files
+*.jar
+*.war
+*.ear
+
+# Virtual machines crash logs
+hs_err_pid*
+
+# Build directories
+target/
 out/
-!ti_desain_pattern/src/main/**/out/
-!ti_desain_pattern/src/test/**/out/
+build/
 
-### Eclipse ###
-.apt_generated
-.classpath
-.factorypath
-.project
-.settings
-.springBeans
-.sts4-cache
-bin/
-!ti_desain_pattern/src/main/**/bin/
-!ti_desain_pattern/src/test/**/bin/
-
-### NetBeans ###
-/nbproject/private/
-/nbbuild/
-/dist/
-/nbdist/
-/.nb-gradle/
-
-### VS Code ###
-.vscode/
-
-### Mac OS ###
-.DS_Store
+# IDE specific files
+.idea/
+*.iml
+*.iws
